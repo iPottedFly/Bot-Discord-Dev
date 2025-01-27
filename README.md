@@ -29,15 +29,15 @@ Además de desarrollar desde cero, también tengo bots ya preparados y funcional
 ### 🎨 Ejemplos de funcionalidades
 
 🛡️ **Moderación y Administración**
-	•	Roles automáticos, advertencias y sistemas de reportes.
-	•	Modos de mantenimiento para gestionar el acceso al servidor.
+- Roles automáticos, advertencias y sistemas de reportes.
+- Modos de mantenimiento para gestionar el acceso al servidor.
 
 💰 **Economía y Juegos**
-	•	Sistemas de monedas, inventarios, venta de materiales.
-	•	Clasificación de los usuarios más ricos.
+- Sistemas de monedas, inventarios, venta de materiales.
+- Clasificación de los usuarios más ricos.
 
 📋 **Personalización Única**
-	•	Comandos de cumpleaños para tu comunidad.
+- Comandos de cumpleaños para tu comunidad.
  
 ### ⚙️ Listo para integrar
 
@@ -46,8 +46,8 @@ Todos mis bots pueden ajustarse según las necesidades de tu servidor.
 ### 💵 Precios y Paquetes
 
 Ofrezco opciones flexibles:
-	1.	**Desarrollo desde cero:** A partir de $50 USD (dependiendo del nivel de personalización).
-	2.	**Bots ya listos para usar:** A partir de $140 USD.
+1. **Desarrollo desde cero:** A partir de $50 USD (dependiendo del nivel de personalización).
+2. **Bots ya listos para usar:** A partir de $140 USD.
 
 ✉️ **Escríbeme para discutir tus ideas y obtener un presupuesto personalizado.**
 
