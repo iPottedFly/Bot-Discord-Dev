@@ -20,11 +20,11 @@ Además de desarrollar desde cero, también tengo bots ya preparados y funcional
 
 **¡Solo necesitas configurarlos y estarán listos para trabajar en tu servidor!**
 
-🚀 ¿Por qué elegirme?
-	•	💡 **Experiencia:** Clientes satisfechos con los bots que tienen más de 20 comandos avanzados y optimizados.
-	•	🔒 **Seguridad:** Código limpio y confiable que prioriza la privacidad de tus usuarios.
-	•	🤝 **Soporte completo:** Te ayudo con la configuración y ajustes después de la entrega.
-	•	⚡ **Eficiencia:** Trabajo rápido sin comprometer la calidad.
+### 🚀 ¿Por qué elegirme?
+- 💡 **Experiencia:** Clientes satisfechos con los bots que tienen más de 20 comandos avanzados y optimizados.
+- 🔒 **Seguridad:** Código limpio y confiable que prioriza la privacidad de tus usuarios.
+- 🤝 **Soporte completo:** Te ayudo con la configuración y ajustes después de la entrega.
+- ⚡ **Eficiencia:** Trabajo rápido sin comprometer la calidad.
 
 ### 🎨 Ejemplos de funcionalidades
 
